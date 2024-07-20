@@ -1,7 +1,6 @@
 Hi there! I am Farhan, and I like to build applications primarily in the 3D CAD / Games domains. I have worked in the CAD development industry for over a decade as a developer, and the later years transitioned into product management for related software applications. I am currently learning to build web based engineering centric 3D interactive applications, and exploring the Godot engine.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
