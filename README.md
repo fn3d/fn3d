@@ -1,6 +1,6 @@
 Hello! I'm Farhan, and I like to build CAD systems, 3D experiences, and games. I have been working in the infrastructure software development industry as a developer, helping build plant and building design CAD systems, and later as a product and projects manager for a diverse range of products in the generative design, engineering simulation, and BIM space.
 
-Here's just a little sampling of my personal projects I have worked on (or am working on). Not entirely related to the more serious stuff I just mentioned though...
+Here's just a little sampling of my personal projects I have worked on (or am working on). Though strangely unrelated to the more serious stuff I just mentioned though...
 
 🧀 **Cheddar:** I really don't know where I am going with this, but for now, just enjoy the cheese - https://farhan3d.github.io/mydude.github.io/
 
