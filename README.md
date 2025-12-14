@@ -2,7 +2,7 @@ Hello! I'm Farhan, and I like to build CAD systems, 3D experiences, and games. I
 
 Here's just a little sampling of my personal projects I have worked on (or am working on). Though strangely unrelated to the more serious stuff I just mentioned though...
 
-🧀 **Cheddar:** I really don't know where I am going with this, but for now, just enjoy the cheese - https://farhan3d.github.io/mydude.github.io/
+🧀 **Cheddar:** I really don't know where I am going with this, but for now, just enjoy the cheese - https://farhan3d.github.io/cheddar.github.io/
 
 🤖 **Minotaur:** A fully rigged mech project in Unity, modeled in Blender. WIP, and hopefully will soon be up on the Unity Asset Store - https://farhan3d.github.io/minotaur/minotaur.html
 
